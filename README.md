@@ -1,4 +1,4 @@
-# Mul--Object-Tracking-in-Live-Streaming-Video
+# Multi-Object-Tracking-in-Live-Streaming-Video
 
 Multi-Object Tracking (MOT) in live streaming video refers to the process of continuously and simultaneously monitoring and tracing the paths of multiple objects or targets within a video stream in real-time. This technology has gained significant importance in various domains, including surveillance, autonomous vehicles, sports analysis, and industrial automation. Here's a description of Multi-Object Tracking in Live Streaming Video:
 
